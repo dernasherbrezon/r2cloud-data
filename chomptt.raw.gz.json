@@ -1,1 +1,25 @@
-{"id":"1590687281251","start":1590687459757,"end":1590687462757,"sampleRate":48000,"inputSampleRate":240000,"frequency":437560000,"actualFrequency":437579932,"decoder":"TELEMETRY","satellite":"43855","bandwidth":10000,"tle":{"line1":"CHOMPTT","line2":"1 43855U 18104G   20148.67359521  .00000948  00000-0  38444-4 0  9990","line3":"2 43855  85.0399 188.9544 0019411 122.8616 237.4493 15.22940733 80367"},"groundStation":{"lat":56.31,"lon":38.13},"numberOfDecodedPackets":0}
+{
+	"id": "1590687281251",
+	"start": 1590687459757,
+	"end": 1590687462757,
+	"sampleRate": 48000,
+	"inputSampleRate": 240000,
+	"frequency": 437560000,
+	"actualFrequency": 437579932,
+	"decoder": "TELEMETRY",
+	"satellite": "43855",
+	"bandwidth": 10000,
+	"tle": {
+		"line1": "CHOMPTT",
+		"line2": "1 43855U 18104G   20148.67359521  .00000948  00000-0  38444-4 0  9990",
+		"line3": "2 43855  85.0399 188.9544 0019411 122.8616 237.4493 15.22940733 80367"
+	},
+	"groundStation": {
+		"lat": 56.31,
+		"lon": 38.13
+	},
+	"numberOfDecodedPackets": 0,
+	"baudRates": [
+		1200
+	]
+}

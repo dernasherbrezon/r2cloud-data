@@ -1,1 +1,25 @@
-{"id":"1585384249597","start":1585384656627,"end":1585384660627,"sampleRate":48000,"inputSampleRate":240000,"frequency":145860000,"actualFrequency":145873176,"decoder":"TELEMETRY","satellite":"43786","bandwidth":5000,"tle":{"line1":"ITASAT 1","line2":"1 43786U 18099AE  20087.46477280  .00000239  00000-0  26904-4 0  9999","line3":"2 43786  97.7135 160.6112 0016697 104.0436 256.2642 14.95280331 71681"},"groundStation":{"lat":53.72,"lon":47.57},"numberOfDecodedPackets":0}
+{
+	"id": "1585384249597",
+	"start": 1585384656627,
+	"end": 1585384660627,
+	"sampleRate": 48000,
+	"inputSampleRate": 240000,
+	"frequency": 145860000,
+	"actualFrequency": 145873176,
+	"decoder": "TELEMETRY",
+	"satellite": "43786",
+	"bandwidth": 5000,
+	"tle": {
+		"line1": "ITASAT 1",
+		"line2": "1 43786U 18099AE  20087.46477280  .00000239  00000-0  26904-4 0  9999",
+		"line3": "2 43786  97.7135 160.6112 0016697 104.0436 256.2642 14.95280331 71681"
+	},
+	"groundStation": {
+		"lat": 53.72,
+		"lon": 47.57
+	},
+	"numberOfDecodedPackets": 0,
+	"baudRates": [
+		1200
+	]
+}

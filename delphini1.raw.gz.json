@@ -1,1 +1,31 @@
-{"id":"1605283245123","start":1605283406123,"end":1605283408123,"sampleRate":48000,"inputSampleRate":240000,"frequency":437500000,"actualFrequency":437518784,"decoder":"TELEMETRY","satellite":"44030","bandwidth":20000,"tle":{"line1":"DELPHINI","line2":"1 44030U 98067PW  20317.19690628  .00061806  00000+0  41985-3 0  9995","line3":"2 44030  51.6308 281.1577 0001040  21.1772 338.9270 15.74335168101717"},"groundStation":{"lat":56.315,"lon":38.135},"gain":"25.0","numberOfDecodedPackets":66,"data":"/api/v1/admin/static/satellites/44030/data/1605283245123/data.bin","rawURL":"/api/v1/admin/static/satellites/44030/data/1605283245123/output.raw.gz","status":"UPLOADED","biast":false,"sdrType":"RTLSDR"}
+{
+	"id": "1605283245123",
+	"start": 1605283406123,
+	"end": 1605283408123,
+	"sampleRate": 48000,
+	"inputSampleRate": 240000,
+	"frequency": 437500000,
+	"actualFrequency": 437518784,
+	"decoder": "TELEMETRY",
+	"satellite": "44030",
+	"bandwidth": 20000,
+	"tle": {
+		"line1": "DELPHINI",
+		"line2": "1 44030U 98067PW  20317.19690628  .00061806  00000+0  41985-3 0  9995",
+		"line3": "2 44030  51.6308 281.1577 0001040  21.1772 338.9270 15.74335168101717"
+	},
+	"groundStation": {
+		"lat": 56.315,
+		"lon": 38.135
+	},
+	"gain": "25.0",
+	"numberOfDecodedPackets": 66,
+	"data": "/api/v1/admin/static/satellites/44030/data/1605283245123/data.bin",
+	"rawURL": "/api/v1/admin/static/satellites/44030/data/1605283245123/output.raw.gz",
+	"status": "UPLOADED",
+	"biast": false,
+	"sdrType": "RTLSDR",
+	"baudRates": [
+		9600
+	]
+}

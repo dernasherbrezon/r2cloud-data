@@ -1,1 +1,25 @@
-{"id":"1585420731555","start":1585420910672,"end":1585420913672,"sampleRate":48000,"inputSampleRate":240000,"frequency":437175000,"actualFrequency":437194992,"decoder":"TELEMETRY","satellite":"44830","bandwidth":20000,"tle":{"line1":"ATL-1","line2":"1 44830U 19084G   20087.54664604  .00038195  00000-0  29699-3 0  9997","line3":"2 44830  96.9878 316.3017 0033634 187.8717 172.2023 15.70884370 17566"},"groundStation":{"lat":53.72,"lon":47.57},"numberOfDecodedPackets":2}
+{
+	"id": "1585420731555",
+	"start": 1585420910672,
+	"end": 1585420913672,
+	"sampleRate": 48000,
+	"inputSampleRate": 240000,
+	"frequency": 437175000,
+	"actualFrequency": 437194992,
+	"decoder": "TELEMETRY",
+	"satellite": "44830",
+	"bandwidth": 20000,
+	"tle": {
+		"line1": "ATL-1",
+		"line2": "1 44830U 19084G   20087.54664604  .00038195  00000-0  29699-3 0  9997",
+		"line3": "2 44830  96.9878 316.3017 0033634 187.8717 172.2023 15.70884370 17566"
+	},
+	"groundStation": {
+		"lat": 53.72,
+		"lon": 47.57
+	},
+	"numberOfDecodedPackets": 2,
+	"baudRates": [
+		2500
+	]
+}

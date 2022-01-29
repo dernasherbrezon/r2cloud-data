@@ -1,1 +1,25 @@
-{"id":"1576176352520","start":1576176539747,"end":1576176541747,"sampleRate":48000,"inputSampleRate":240000,"frequency":437775000,"actualFrequency":437795297,"decoder":"TELEMETRY","satellite":"43743","bandwidth":15000,"tle":{"line1":"REAKTOR HELLO WORLD","line2":"1 43743U 18096AA  19341.48886299  .00000877  00000-0  35767-4 0  9991","line3":"2 43743  97.4433  51.1669 0019801  90.1064  35.4651 15.26966098 56940"},"groundStation":{"lat":56.31,"lon":38.13},"numberOfDecodedPackets":0}
+{
+	"id": "1576176352520",
+	"start": 1576176539747,
+	"end": 1576176541747,
+	"sampleRate": 48000,
+	"inputSampleRate": 240000,
+	"frequency": 437775000,
+	"actualFrequency": 437795297,
+	"decoder": "TELEMETRY",
+	"satellite": "43743",
+	"bandwidth": 15000,
+	"tle": {
+		"line1": "REAKTOR HELLO WORLD",
+		"line2": "1 43743U 18096AA  19341.48886299  .00000877  00000-0  35767-4 0  9991",
+		"line3": "2 43743  97.4433  51.1669 0019801  90.1064  35.4651 15.26966098 56940"
+	},
+	"groundStation": {
+		"lat": 56.31,
+		"lon": 38.13
+	},
+	"numberOfDecodedPackets": 0,
+	"baudRates": [
+		9600
+	]
+}

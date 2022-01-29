@@ -1,1 +1,31 @@
-{"id":"1605328599182","start":1605328885182,"end":1605328887182,"sampleRate":48000,"inputSampleRate":240000,"frequency":437568000,"actualFrequency":437587099,"decoder":"TELEMETRY","satellite":"39090","bandwidth":20000,"tle":{"line1":"STRAND-1","line2":"1 39090U 13009E   20317.30336398  .00000050  00000+0  32586-4 0  9994","line3":"2 39090  98.4415 158.4151 0008675 198.5629 161.5242 14.35152306403890"},"groundStation":{"lat":56.315,"lon":38.135},"gain":"25.0","numberOfDecodedPackets":17,"data":"/api/v1/admin/static/satellites/39090/data/1605328599182/data.bin","rawURL":"/api/v1/admin/static/satellites/39090/data/1605328599182/output.raw.gz","status":"UPLOADED","biast":false,"sdrType":"RTLSDR"}
+{
+	"id": "1605328599182",
+	"start": 1605328885182,
+	"end": 1605328887182,
+	"sampleRate": 48000,
+	"inputSampleRate": 240000,
+	"frequency": 437568000,
+	"actualFrequency": 437587099,
+	"decoder": "TELEMETRY",
+	"satellite": "39090",
+	"bandwidth": 20000,
+	"tle": {
+		"line1": "STRAND-1",
+		"line2": "1 39090U 13009E   20317.30336398  .00000050  00000+0  32586-4 0  9994",
+		"line3": "2 39090  98.4415 158.4151 0008675 198.5629 161.5242 14.35152306403890"
+	},
+	"groundStation": {
+		"lat": 56.315,
+		"lon": 38.135
+	},
+	"gain": "25.0",
+	"numberOfDecodedPackets": 17,
+	"data": "/api/v1/admin/static/satellites/39090/data/1605328599182/data.bin",
+	"rawURL": "/api/v1/admin/static/satellites/39090/data/1605328599182/output.raw.gz",
+	"status": "UPLOADED",
+	"biast": false,
+	"sdrType": "RTLSDR",
+	"baudRates": [
+		9600
+	]
+}

@@ -1,1 +1,31 @@
-{"id":"1626652144170-48900","start":1626652377857,"end":1626652379857,"sampleRate":48000,"inputSampleRate":48000,"frequency":435950000,"actualFrequency":435951000,"decoder":"TELEMETRY","satellite":"48900","bandwidth":20000,"tle":{"line1":"TUBIN","line2":"1 48900U 21059X   21198.33119333  .00000453  00000-0  29941-4 0  9996","line3":"2 48900  97.5131 326.8486 0010680 169.8803 190.2645 15.12177703  3257"},"groundStation":{"lat":56.315,"lon":38.135},"gain":"15.0","numberOfDecodedPackets":0,"rawURL":"/api/v1/admin/static/satellites/48900/data/1626652144170-48900/output.raw","status":"UPLOADED","biast":true,"sdrType":"SDRSERVER","centerBandFrequency":436382000}
+{
+	"id": "1626652144170-48900",
+	"start": 1626652377857,
+	"end": 1626652379857,
+	"sampleRate": 48000,
+	"inputSampleRate": 48000,
+	"frequency": 435950000,
+	"actualFrequency": 435951000,
+	"decoder": "TELEMETRY",
+	"satellite": "48900",
+	"bandwidth": 20000,
+	"tle": {
+		"line1": "TUBIN",
+		"line2": "1 48900U 21059X   21198.33119333  .00000453  00000-0  29941-4 0  9996",
+		"line3": "2 48900  97.5131 326.8486 0010680 169.8803 190.2645 15.12177703  3257"
+	},
+	"groundStation": {
+		"lat": 56.315,
+		"lon": 38.135
+	},
+	"gain": "15.0",
+	"numberOfDecodedPackets": 0,
+	"rawURL": "/api/v1/admin/static/satellites/48900/data/1626652144170-48900/output.raw",
+	"status": "UPLOADED",
+	"biast": true,
+	"sdrType": "SDRSERVER",
+	"centerBandFrequency": 436382000,
+	"baudRates": [
+		4800
+	]
+}

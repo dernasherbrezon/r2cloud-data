@@ -1,1 +1,25 @@
-{"id":"1580924786911","start":1580925065094,"end":1580925066094,"sampleRate":48000,"inputSampleRate":240000,"frequency":436670000,"actualFrequency":436689935,"decoder":"TELEMETRY","satellite":"42784","bandwidth":12000,"tle":{"line1":"PEGASUS","line2":"1 42784U 17036V   20032.19987700  .00000990  00000-0  45060-4 0  9997","line3":"2 42784  97.3221  89.7431 0012945 144.2554 215.9552 15.22918750144883"},"groundStation":{"lat":53.72,"lon":47.57},"numberOfDecodedPackets":0}
+{
+	"id": "1580924786911",
+	"start": 1580925065094,
+	"end": 1580925066094,
+	"sampleRate": 48000,
+	"inputSampleRate": 240000,
+	"frequency": 436670000,
+	"actualFrequency": 436689935,
+	"decoder": "TELEMETRY",
+	"satellite": "42784",
+	"bandwidth": 12000,
+	"tle": {
+		"line1": "PEGASUS",
+		"line2": "1 42784U 17036V   20032.19987700  .00000990  00000-0  45060-4 0  9997",
+		"line3": "2 42784  97.3221  89.7431 0012945 144.2554 215.9552 15.22918750144883"
+	},
+	"groundStation": {
+		"lat": 53.72,
+		"lon": 47.57
+	},
+	"numberOfDecodedPackets": 0,
+	"baudRates": [
+		9600
+	]
+}
