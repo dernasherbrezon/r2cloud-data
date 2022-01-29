@@ -1,0 +1,31 @@
+{
+	"id": "1643478870097-R2CLOUD11",
+	"start": 1643479254741,
+	"end": 1643479258741,
+	"sampleRate": 48000,
+	"inputSampleRate": 48000,
+	"frequency": 436650000,
+	"actualFrequency": 436650000,
+	"decoder": "TELEMETRY",
+	"satellite": "R2CLOUD11",
+	"bandwidth": 10000,
+	"tle": {
+		"line1": "DELFI-PQ",
+		"line2": "1 51074U 22002CU  22029.14545102  .00004903  00000-0  26949-3 0  9999",
+		"line3": "2 51074  97.5256  98.6529 0013921 211.7968 148.2424 15.14480027  2359"
+	},
+	"groundStation": {
+		"lat": 53.72,
+		"lon": 47.57
+	},
+	"gain": "40.0",
+	"numberOfDecodedPackets": 0,
+	"rawURL": "/api/v1/admin/static/satellites/R2CLOUD11/data/1643478870097-R2CLOUD11/output.raw",
+	"status": "UPLOADED",
+	"biast": false,
+	"sdrType": "SDRSERVER",
+	"centerBandFrequency": 436382000,
+	"baudRates": [
+		1200
+	]
+}
