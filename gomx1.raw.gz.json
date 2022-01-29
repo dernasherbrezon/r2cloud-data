@@ -26,6 +26,6 @@
 	"biast": false,
 	"sdrType": "RTLSDR",
 	"baudRates": [
-		2400
+		4800
 	]
 }
