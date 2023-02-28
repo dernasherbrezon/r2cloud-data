@@ -5,7 +5,7 @@
 	"sampleRate": 48000,
 	"inputSampleRate": 240000,
 	"frequency": 437150000,
-	"actualFrequency": 437170032,
+	"actualFrequency": 437172532,
 	"decoder": "TELEMETRY",
 	"satellite": "43798",
 	"bandwidth": 20000,
