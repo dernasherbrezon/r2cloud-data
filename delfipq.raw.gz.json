@@ -6,7 +6,6 @@
 	"inputSampleRate": 48000,
 	"frequency": 436650000,
 	"actualFrequency": 436650000,
-	"decoder": "TELEMETRY",
 	"satellite": "R2CLOUD11",
 	"bandwidth": 10000,
 	"tle": {
@@ -18,12 +17,10 @@
 		"lat": 53.72,
 		"lon": 47.57
 	},
-	"gain": "40.0",
 	"numberOfDecodedPackets": 0,
 	"rawURL": "/api/v1/admin/static/satellites/R2CLOUD11/data/1643478870097-R2CLOUD11/output.raw",
 	"status": "UPLOADED",
-	"biast": false,
-	"sdrType": "SDRSERVER",
+	"dataFormat": "COMPLEX_FLOAT",
 	"centerBandFrequency": 436382000,
 	"baudRates": [
 		1200

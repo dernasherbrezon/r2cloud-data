@@ -6,7 +6,6 @@
 	"inputSampleRate": 240000,
 	"frequency": 437300000,
 	"actualFrequency": 437307495,
-	"decoder": "TELEMETRY",
 	"satellite": "43466",
 	"bandwidth": 10000,
 	"tle": {
@@ -19,6 +18,7 @@
 		"lon": 47.57
 	},
 	"numberOfDecodedPackets": 0,
+	"dataFormat": "COMPLEX_UNSIGNED_BYTE",
 	"baudRates": [
 		4800
 	]

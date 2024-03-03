@@ -6,7 +6,6 @@
 	"inputSampleRate": 48000,
 	"frequency": 435950000,
 	"actualFrequency": 435951000,
-	"decoder": "TELEMETRY",
 	"satellite": "48900",
 	"bandwidth": 20000,
 	"tle": {
@@ -18,13 +17,10 @@
 		"lat": 56.315,
 		"lon": 38.135
 	},
-	"gain": "15.0",
 	"numberOfDecodedPackets": 0,
 	"rawURL": "/api/v1/admin/static/satellites/48900/data/1626652144170-48900/output.raw",
 	"status": "UPLOADED",
-	"biast": true,
-	"sdrType": "SDRSERVER",
-	"centerBandFrequency": 436382000,
+	"dataFormat": "COMPLEX_FLOAT",
 	"baudRates": [
 		4800
 	]

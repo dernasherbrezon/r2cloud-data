@@ -6,7 +6,6 @@
 	"inputSampleRate": 240000,
 	"frequency": 437568000,
 	"actualFrequency": 437587099,
-	"decoder": "TELEMETRY",
 	"satellite": "39090",
 	"bandwidth": 20000,
 	"tle": {
@@ -18,13 +17,11 @@
 		"lat": 56.315,
 		"lon": 38.135
 	},
-	"gain": "25.0",
 	"numberOfDecodedPackets": 17,
 	"data": "/api/v1/admin/static/satellites/39090/data/1605328599182/data.bin",
 	"rawURL": "/api/v1/admin/static/satellites/39090/data/1605328599182/output.raw.gz",
 	"status": "UPLOADED",
-	"biast": false,
-	"sdrType": "RTLSDR",
+	"dataFormat": "COMPLEX_UNSIGNED_BYTE",
 	"baudRates": [
 		9600
 	]
